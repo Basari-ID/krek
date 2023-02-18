@@ -21,5 +21,5 @@ $ python run.py
 ```
 ## Informasi
 ```
-script ini hanya bisa digunakan sampai tanggal 30
+script ini hanya bisa digunakan sampai tanggal 25
 ```
