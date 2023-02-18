@@ -2,7 +2,6 @@
 ```
 $ pkg update && pkg upgrade
 $ pkg install python git
-$ pkg install play-audio
 $ pip install requests mechanize
 $ pip install --upgrade pip
 $ pip2 install requests
@@ -18,6 +17,10 @@ $ python run.py
 $ cd krek
 $ git pull
 $ python run.py
+```
+## Catatan
+```
+kalau login cookies nggak kemenu malah balik login lagi ketikan ini rm -rf .tokeneakun.txt && rm -rf .cookiesakun.txt lalu jalanin ulang scnya
 ```
 ## Informasi
 ```
