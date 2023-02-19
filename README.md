@@ -12,15 +12,17 @@ $ ls
 $ cd krek
 $ python run.py
 ```
-## Update
+## Cek opsi
 ```
 $ cd krek
 $ git pull
-$ python run.py
+$ python opsi.py
 ```
-## Catatan
+## Cek hasil
 ```
-kalau login cookies nggak kemenu malah balik login lagi ketikan ini rm -rf .tokeneakun.txt && rm -rf .cookiesakun.txt lalu jalanin ulang scnya
+$ cd krek
+$ git pull
+$ python hasil.py
 ```
 ## Informasi
 ```
