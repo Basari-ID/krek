@@ -25,6 +25,13 @@ $ git pull
 $ python hasil.py
 ```
 ## Informasi
+>> ketik publik dan enter (crack publik id)
+
+>> ketik file dan enter (crack dari file)
+
+>> on/of mode pesawat setiap (400 id)
+
+>> crack mayan lambat harap (sabar)
 ```
-script ini hanya bisa digunakan sampai tanggal 25
+script gratis sampai tanggal 25
 ```
