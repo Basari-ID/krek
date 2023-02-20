@@ -24,6 +24,10 @@ $ cd krek
 $ git pull
 $ python hasil.py
 ```
+## Catatan
+```
+pas dibagian login cokis kalo udah masukin cokis disuruh masukin cokis lagi ketikan ini rm -rf .tokeneakun.txt && rm -rf .cookiesakun.txt lalu jalankan ulang scnya dan ganti cokis baru
+```
 ## Informasi
 > ketik publik (crack publik id)
 
