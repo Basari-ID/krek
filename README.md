@@ -4,7 +4,7 @@ $ pkg update && pkg upgrade
 $ pkg install python git
 $ pip install requests mechanize
 $ pip install --upgrade pip
-$ pip2 install requests
+$ pip install requests
 $ pip install rich bs4
 $ pip install stdiomask
 $ git clone https://github.com/Basari-ID/krek
