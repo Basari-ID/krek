@@ -37,7 +37,7 @@ pas dibagian login cokis kalo udah masukin cokis disuruh masukin cokis lagi keti
 
 > crack mayan lambat harap (sabar)
 ```
-script sudah tidak free
+make doang nggak follow gg lu bro
 ```
 ## KASIH BINTANG WOY 🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
